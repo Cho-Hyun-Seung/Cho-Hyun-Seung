@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h3>Cho-Hyun-Seung 🚀</h3>
+  <h3>Cho-Hyun-Seung</h3>
   <p>💻 Backend Developer </p>
 
   <!-- Languages -->
