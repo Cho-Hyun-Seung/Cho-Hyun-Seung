@@ -3,7 +3,6 @@
 💻 **Backend Developer**  
 📫 Reach me at: [toki0327@naver.com](mailto:toki0327@naver.com)  
 
----
 
 ## 🚀 Tech Stack
 
@@ -39,7 +38,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
----
+
 ## 💼 Work Experience
 - **SilentCare** (2023.01 ~ 2023.09)
   - **크롤링 서버 개발**: Express.js와 Playwright로 상품 데이터를 자동 수집·처리하는 서버 구축
@@ -50,7 +49,6 @@
   - **상품·그룹 관리 페이지 및 기능 개발**: React 기반 UI 구현 및 사용자 그룹 관리 기능 개발
   - **크롬 확장 프로그램 개발**: TypeScript 기반 크롤링 확장 프로그램 개발
 
----
 
 ## 📌 Featured Projects
 
@@ -58,12 +56,11 @@
 - 🔗 [**어린왕자의 하루**](https://github.com/Cho-Hyun-Seung/be15-4th-b612-DayOfTheLittlePrince): AI 기반 맞춤형 TODO 리스트 추천 서비스
 - 🔗 [**걸어서 한국속으로**](https://github.com/Cho-Hyun-Seung/be15-2nd-baksal-gulhan): 국내 여행정보 제공 및 박물관 기념품 판매 서비스
 - 🔗 [**Festival Board**](https://github.com/Cho-Hyun-Seung/slime): 축제 방문객을 위한 댓글 감성 분석 기반 여행 경로 추천 서비스
----
 
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-Hyun-Seung&show_icons=true&theme=tokyonight)  
 
----
+
 ## 📚 Algorithm
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd032)
