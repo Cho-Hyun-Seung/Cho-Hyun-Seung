@@ -9,6 +9,25 @@
 - K-Shield Jr 12기 단기 과정 취약점 분석 트랙 수료 (2024.07 ~ 2024.08)   
 - 한화 시스템 SW  Beyond Camp 12기 수료 (2025.01 ~ 2025.07)  
 
+
+## 💼 Work Experience
+- **SilentCare** (2023.01 ~ 2023.09)
+  - **크롤링 서버 개발**: Express.js와 Playwright로 상품 데이터를 자동 수집·처리하는 서버 구축
+  - **상품 관리 시스템 개발**: PHP를 활용해 수집 상품 관리 기능 구현
+  - **데이터베이스 구축**: MySQL 구조를 설계 및 호스팅 환경 구축
+
+- **Redbookers** (2022.05 ~ 2022.12)  
+  - **상품·그룹 관리 페이지 및 기능 개발**: React 기반 UI 구현 및 사용자 그룹 관리 기능 개발
+  - **크롬 확장 프로그램 개발**: TypeScript 기반 크롤링 확장 프로그램 개발
+
+
+## 📌 Featured Projects
+
+- 🔗 [**Kathcup**](https://github.com/Cho-Hyun-Seung/be15-fin-tomato-katchup-BE): MCN 기업을 위한 B2B 협업 관리 CRM
+- 🔗 [**어린왕자의 하루**](https://github.com/Cho-Hyun-Seung/be15-4th-b612-DayOfTheLittlePrince): AI 기반 맞춤형 TODO 리스트 추천 서비스
+- 🔗 [**걸어서 한국속으로**](https://github.com/Cho-Hyun-Seung/be15-2nd-baksal-gulhan): 국내 여행정보 제공 및 박물관 기념품 판매 서비스
+- 🔗 [**Festival Board**](https://github.com/Cho-Hyun-Seung/slime): 축제 방문객을 위한 댓글 감성 분석 기반 여행 경로 추천 서비스
+
 ## 🚀 Tech Stack
 
 **Languages**  
@@ -38,25 +57,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-
-
-## 💼 Work Experience
-- **SilentCare** (2023.01 ~ 2023.09)
-  - **크롤링 서버 개발**: Express.js와 Playwright로 상품 데이터를 자동 수집·처리하는 서버 구축
-  - **상품 관리 시스템 개발**: PHP를 활용해 수집 상품 관리 기능 구현
-  - **데이터베이스 구축**: MySQL 구조를 설계 및 호스팅 환경 구축
-
-- **Redbookers** (2022.05 ~ 2022.12)  
-  - **상품·그룹 관리 페이지 및 기능 개발**: React 기반 UI 구현 및 사용자 그룹 관리 기능 개발
-  - **크롬 확장 프로그램 개발**: TypeScript 기반 크롤링 확장 프로그램 개발
-
-
-## 📌 Featured Projects
-
-- 🔗 [**Kathcup**](https://github.com/Cho-Hyun-Seung/be15-fin-tomato-katchup-BE): MCN 기업을 위한 B2B 협업 관리 CRM
-- 🔗 [**어린왕자의 하루**](https://github.com/Cho-Hyun-Seung/be15-4th-b612-DayOfTheLittlePrince): AI 기반 맞춤형 TODO 리스트 추천 서비스
-- 🔗 [**걸어서 한국속으로**](https://github.com/Cho-Hyun-Seung/be15-2nd-baksal-gulhan): 국내 여행정보 제공 및 박물관 기념품 판매 서비스
-- 🔗 [**Festival Board**](https://github.com/Cho-Hyun-Seung/slime): 축제 방문객을 위한 댓글 감성 분석 기반 여행 경로 추천 서비스
 
 ## 📊 GitHub Stats
 
