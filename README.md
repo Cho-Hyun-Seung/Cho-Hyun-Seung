@@ -50,7 +50,7 @@
   <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd032"/><br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=6&layout=compact&theme=tokyonight"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cho-Hyun-Seung&langs_count=6&layout=compact&theme=tokyonight"/>
   </a>
 
 </div>
