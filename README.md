@@ -27,7 +27,7 @@
   </br>
 
   <!-- Infra & IaC -->
-  <h3>☁️ Infra & IaC</h3>
+  <h3>☁️ DevOps</h3>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
@@ -38,7 +38,7 @@
   </br>
 
   <!-- DB & Cache -->
-  <h3>💾 DB &amp; Cache</h3>
+  <h3>💾 Database</h3>
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
